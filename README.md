@@ -19,7 +19,6 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 
 ## 🛠️ Personal Projects
-
 [Habigotchi Habit Tracking Mobile App (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
 - **Tech Stack:** Typescript, Lottie, Expo, React Native, Axios, Jest  
 - **Description:** Created a Habit Tracking app with Pet and AI integration.
