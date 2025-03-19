@@ -15,3 +15,6 @@ I’m a full-stack software developer with a strong foundation in JavaScript and
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dinodinz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Upwork](https://img.shields.io/badge/-upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d84abacfc0c4998)
+
+
