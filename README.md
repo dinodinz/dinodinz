@@ -15,7 +15,3 @@ I’m a full-stack software developer with a strong foundation in JavaScript and
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dinodinz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
-✨ _Generated with ❤️ by [Your GitHub Profile](https://github.com/dinodinz)_
