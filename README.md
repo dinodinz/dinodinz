@@ -2,6 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/dinodinz?style=social)
 
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
+
 
 🚀 **Full-Stack Developer | JavaScript Enthusiast**  
 💻 **Building awesome projects with React, Node.js, PostgreSQL**  
