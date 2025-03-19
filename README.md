@@ -2,7 +2,7 @@
 
 I’m a full-stack software developer with a strong foundation in JavaScript and modern web technologies. After completing an intensive JavaScript bootcamp, I’m eager to build scalable, clean, and well-tested applications. I thrive on solving complex problems and continuously improving my skills to create impactful solutions.
 
-Prior to becoming a full-stack developer, I spent over 10 years as a technical support specialist for various SaaS applications, primarily in eCommerce and email automation. This experience gave me a deep understanding of user needs, troubleshooting complex systems, and working closely with development teams—skills that now enhance my approach to software development.
+Prior to becoming a full-stack developer, I spent over 10 years as a technical support specialist for various SaaS applications, primarily in eCommerce and email automation industry. This experience gave me a deep understanding of user needs, troubleshooting complex systems, and working closely with development teams—skills that now enhance my approach to software development.
 
 I firmly believe that staying current with the latest advancements and innovations is essential for success in the fast-evolving tech industry.
 
