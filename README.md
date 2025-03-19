@@ -27,9 +27,13 @@ I firmly believe that staying current with the latest advancements and innovatio
 - **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
 - **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
 
-- [Habigotchi Habit Tracking Mobile App (backend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
-- **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
-- **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
+[NC News forum-based Community Webapp (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
+- **Tech Stack:** Javascript (ES6), React, React Router, Axios, Vite
+- **Description:** Created a webapp similar to reddit which is a forum-based community platform.
+
+[NC News forum-based Community Webapp (backend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
+- **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, pg, pg-format, Husky
+- **Description:** Created a backend database and server for NC news web app.
   
 
 ## 🔗 Connect with Me
