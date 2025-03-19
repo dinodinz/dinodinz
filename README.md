@@ -1,14 +1,13 @@
 # Hi I'm Dino 👋
 
-🚀 **Full-Stack Developer | JavaScript Enthusiast**  
-💻 **Building awesome projects with React, Node.js, PostgreSQL**  
+I’m a full-stack software developer with a strong foundation in JavaScript and modern web technologies. After completing an intensive JavaScript bootcamp, I’m eager to build scalable, clean, and well-tested applications. I thrive on solving complex problems and continuously improving my skills to create impactful solutions.
 
-## 🚀 About Me
-- 🔭 I’m currently working on **[Project Name](https://github.com/dinodinz/project)**
-- 🌱 I’m learning **TypeScript, Docker, and Cloud Deployments**
-- 💬 Ask me about **React, Express.js, or database optimization**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-profile/)**  
-- ⚡ Fun fact: I love gaming and solving LeetCode challenges!
+## 🔧 Technical Skills
+Languages: JavaScript (ES6+) | TypeScript | Python
+Front-end: HTML/CSS | React | React Native | Tailwind CSS | Vite | Axios | Expo 
+Back-end: Node.js | PostgreSQL | Express.js | Axios | SuperBase | Render
+Testing: Jest | SuperTest | Selenium(Pytest) | Playwright 
+
 
 ## 📊 My GitHub Stats  
 ![Dinodin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinodinz&show_icons=true&theme=radical)
