@@ -14,6 +14,10 @@ I firmly believe that staying current with the latest advancements and innovatio
 - **Testing:** Jest | SuperTest | Selenium(Pytest) | Playwright
 
 
+## 📊 My GitHub Stats  
+![Dinodin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinodinz&show_icons=true&theme=radical)
+
+
 ## 🛠️ Personal Projects
 
 [Habigotchi Habit Tracking Mobile App (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
@@ -23,10 +27,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 [Habigotchi Habit Tracking Mobile App (backend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
 - **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
 - **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
-
-
-## 📊 My GitHub Stats  
-![Dinodin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinodinz&show_icons=true&theme=radical)
+  
 
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dinodinz)
