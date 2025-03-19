@@ -11,7 +11,18 @@ I firmly believe that staying current with the latest advancements and innovatio
 - **Languages:** JavaScript (ES6+) | TypeScript | Python (basic)
 - **Front-end:** HTML/CSS | React | React Native | Tailwind CSS | Vite | Axios | Expo 
 - **Back-end:** Node.js | PostgreSQL | Express.js | Axios | SuperBase | Render
-- **Testing:** Jest | SuperTest | Selenium(Pytest) | Playwright 
+- **Testing:** Jest | SuperTest | Selenium(Pytest) | Playwright
+
+
+## 🛠️ Personal Projects
+
+[Habigotchi Habit Tracking Mobile App (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
+- **Tech Stack:** Typescript, Lottie, Expo, React Native, Axios, Jest  
+- **Description:** Created a Habit Tracking app with Pet and AI integration.
+
+[Habigotchi Habit Tracking Mobile App (backend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
+- **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
+- **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
 
 
 ## 📊 My GitHub Stats  
@@ -22,10 +33,5 @@ I firmly believe that staying current with the latest advancements and innovatio
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![Upwork](https://img.shields.io/badge/-upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d84abacfc0c4998)
 
-## 🛠️ Personal Projects
-
-[Habigotchi Habit Tracking Mobile App (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
-- **Tech Stack:** Typescript, Lottie, Expo, React Native, Axios, Jest  
-- **Description:** Created a Habit Tracking app with Pet and AI integration.
 
 
