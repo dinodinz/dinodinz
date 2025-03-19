@@ -26,6 +26,10 @@ I firmly believe that staying current with the latest advancements and innovatio
 [Habigotchi Habit Tracking Mobile App (backend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
 - **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
 - **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
+
+- [Habigotchi Habit Tracking Mobile App (backend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
+- **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
+- **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
   
 
 ## 🔗 Connect with Me
