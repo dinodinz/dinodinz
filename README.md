@@ -22,7 +22,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![Upwork](https://img.shields.io/badge/-upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d84abacfc0c4998)
 
-##🛠️ Personal Projects
+## 🛠️ Personal Projects
 
 [Habigotchi Habit Tracking Mobile App (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
 - **Tech Stack:** Typescript, Lottie, Expo, React Native, Axios, Jest  
