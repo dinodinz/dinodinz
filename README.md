@@ -24,7 +24,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 [Habigotchi Habit Tracking Mobile App (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
 - **Tech Stack:** Typescript, Lottie, Expo, React Native, Axios, Jest  
-- **Description:** Created a Habit Tracking app with Pet and AI integration.
+- **Description:** Created a Habit Tracking app with a Pet and AI integration for interaction and a reward base system to feed your pet.
 
 [Habigotchi Habit Tracking Mobile App (backend)](https://github.com/dinodinz/habigotchi-backend-portfolio)
 - **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
@@ -32,7 +32,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 [NC News forum-based Community Webapp (frontend)](https://github.com/dinodinz/frontend-nc-news)
 - **Tech Stack:** Javascript (ES6), React, React Router, Lottie, Axios, Vite
-- **Description:** Created a webapp similar to reddit which is a forum-based community platform.
+- **Description:** Created a webapp similar to reddit which is a forum-based community platform which allows users to create articles, upvote and comment on each others artciles.
 
 [NC News forum-based Community Webapp (backend)](https://github.com/dinodinz/backend-nc-news)
 - **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, pg, pg-format, Husky
