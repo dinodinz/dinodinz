@@ -28,7 +28,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 [Habigotchi Habit Tracking Mobile App (backend)](https://github.com/dinodinz/habigotchi-backend-portfolio)
 - **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, Nodemon, pg, pg-format 
-- **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
+- **Description:** A RESTful API built with Node.js and Express.js to handle users, pets and habits data using a relational database setup via PostgreSQL.
 
 [NC News forum-based Community Webapp (frontend)](https://github.com/dinodinz/frontend-nc-news)
 - **Tech Stack:** Javascript (ES6), React, React Router, Lottie, Axios, Vite
@@ -36,7 +36,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 [NC News forum-based Community Webapp (backend)](https://github.com/dinodinz/backend-nc-news)
 - **Tech Stack:** Javascript (ES6), Express.js, Jest, Jest-Sorted, Supertest, pg, pg-format, Husky
-- **Description:** Created a backend database and server for NC news web app.
+- **Description:**  A RESTful API built with Node.js and Express.js to handle news articles, users, comments, and votes with PostgreSQL database.
   
 
 ## 🔗 Connect with Me
