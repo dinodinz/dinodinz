@@ -20,7 +20,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 ## 🛠️ Personal Projects
 
-- **Note:** It may take a few seconds for these projects to work on initial load as API endpoints will need to boot up after long periods of inactivity.
+- **Note:** It may take a few seconds for these projects load on initial render as API endpoints will need to boot up after long periods of inactivity.
 
 [Habigotchi Habit Tracking Mobile App (frontend)](https://github.com/dinodinz/habigotchi-frontend-portfolio)
 - **Tech Stack:** Typescript, Lottie, Expo, React Native, Axios, Jest  
