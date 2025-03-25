@@ -31,7 +31,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 - **Description:** Created a backend database and server for the Habigotchi Habit tracking mobile app.
 
 [NC News forum-based Community Webapp (frontend)](https://github.com/dinodinz/frontend-nc-news)
-- **Tech Stack:** Javascript (ES6), React, React Router, Axios, Vite
+- **Tech Stack:** Javascript (ES6), React, React Router, Lottie, Axios, Vite
 - **Description:** Created a webapp similar to reddit which is a forum-based community platform.
 
 [NC News forum-based Community Webapp (backend)](https://github.com/dinodinz/backend-nc-news)
