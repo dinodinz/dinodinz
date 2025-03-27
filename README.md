@@ -9,7 +9,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 ## 🔧 Technical Skills
 - **Languages:** JavaScript (ES6+) | TypeScript | Python (basic)
-- **Front-end:** HTML/CSS | React | React Native | Tailwind CSS | Vite | Axios | Expo 
+- **Front-end:** HTML/CSS | React | React Native | Tailwind CSS | Vite | Axios | Expo | Redux
 - **Back-end:** Node.js | PostgreSQL | Express.js | Axios | SuperBase | Render
 - **Testing:** Jest | SuperTest | Selenium(Pytest) | Playwright
 
