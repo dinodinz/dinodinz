@@ -1,6 +1,6 @@
 # Hi I'm Dino 👋
 
-I’m a full-stack software developer with a strong foundation in JavaScript and modern web technologies. After completing an intensive JavaScript bootcamp, I’m eager to build scalable, clean, and well-tested applications. I thrive on solving complex problems and continuously improving my skills to create impactful solutions.
+I’m a full-stack software developer with a strong foundation in JavaScript and modern web technologies. I love building scalable, clean, and well-tested applications. I thrive on solving complex problems and continuously improving my skills to create impactful solutions.
 
 Prior to becoming a full-stack developer, I spent over 10 years as a technical support specialist for various SaaS applications via Upwork, primarily in eCommerce and email automation industry. This experience gave me a deep understanding of user needs, troubleshooting complex systems, and working closely with development teams—skills that now enhance my approach to software development.
 
