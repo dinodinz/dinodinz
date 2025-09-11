@@ -31,7 +31,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 - **Description:** A RESTful API built with Node.js and Express.js to handle users, pets and habits data using a relational database setup via PostgreSQL.
 
 [NC News forum-based Community Webapp (frontend)](https://github.com/dinodinz/frontend-nc-news)
-- **Tech Stack:** Javascript (ES6), React, React Router, Lottie, Axios, Vite
+- **Tech Stack:** Javascript (ES6), React, React Router, Lottie, Axios, Vite, Tailwind
 - **Description:** Created a webapp similar to reddit which is a forum-based community platform which allows users to create articles, upvote and comment on each others artciles.
 
 [NC News forum-based Community Webapp (backend)](https://github.com/dinodinz/backend-nc-news)
