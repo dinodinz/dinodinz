@@ -15,7 +15,7 @@ I firmly believe that staying current with the latest advancements and innovatio
 
 
 ## 📊 My GitHub Stats  
-![Dinodin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Dinodin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinodinz&show_icons=true&theme=radical)
 
 
 ## 🛠️ Personal Projects
